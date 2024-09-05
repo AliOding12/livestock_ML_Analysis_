@@ -1,0 +1,5 @@
+.env
+bashscript.sh
+*.pyc
+__pycache__/
+<!-- Initial commit: Set up project with .gitignore -->
