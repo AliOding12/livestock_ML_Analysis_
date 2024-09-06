@@ -109,3 +109,4 @@ ax2.set_ylabel('θ1 (First Feature)')
 ax2.set_title('Contour Plot of Cost Function')
 ax2.legend()
 plt.show()
+# Add linear regression script for data02
