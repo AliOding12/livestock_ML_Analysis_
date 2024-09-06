@@ -104,3 +104,4 @@ plt.xlabel('Predicted Values')
 plt.ylabel('Residuals')
 plt.title('Residual Plot')
 plt.show()
+# Add initial linear regression script for data01
