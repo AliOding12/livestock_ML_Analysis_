@@ -71,3 +71,4 @@ example_features = [10, 5, 2, 15]  # Example: [Cattle, Calves, Pigs, Lambs]
 predicted_expenses = predict_expenses(example_features, theta_optimal)
 print("Predicted Expenses:", predicted_expenses)
 # Add livestock data analysis script
+# Add additional analysis for livestock data
