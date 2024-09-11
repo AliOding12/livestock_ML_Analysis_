@@ -110,3 +110,4 @@ ax2.set_title('Contour Plot of Cost Function')
 ax2.legend()
 plt.show()
 # Add linear regression script for data02
+# Optimize regression scripts for performance

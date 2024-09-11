@@ -105,3 +105,4 @@ plt.ylabel('Residuals')
 plt.title('Residual Plot')
 plt.show()
 # Add initial linear regression script for data01
+# Optimize regression scripts for performance
